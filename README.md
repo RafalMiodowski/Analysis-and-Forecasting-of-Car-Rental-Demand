@@ -1,5 +1,3 @@
-# Analysis-and-Forecasting-of-Car-Rental-Demand
-
 # Car Rental Demand Analysis and Forecasting
 
 ## General Project Description
